@@ -7,6 +7,7 @@ public class First {
     System.out.println("First try with Git");
     System.out.println("hello");
     System.out.println("hi");
+    System.out.println("how r u?");
 	}
 
 }
